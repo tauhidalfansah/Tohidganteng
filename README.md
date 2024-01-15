@@ -29,3 +29,7 @@
 ```bash
     php artisan storage:link
 ```
+
+Login Admin
+Email    = admin@example.com 
+Password = 123
