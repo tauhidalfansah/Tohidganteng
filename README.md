@@ -1,13 +1,12 @@
 # TUGAS BESAR DESAIN DAN PEMROGRAMAN WEB
 ## Screenshots
-![ss](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/f1c3220a-595a-48db-a46d-022f8899f2aa)
-![ss1](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/6e12047c-6cc4-4f79-a7fc-441b66cee551)
-![ss2](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/4d453d6e-aca1-4fab-a91f-4c3a216e1447)
-![Screenshot 2024-01-10 230720](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/192950e9-afc2-4541-b869-7db8ca2a5c9f)
-![Screenshot 2024-01-10 230724](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/02ba501d-6c7d-4001-a62a-bfe8cf80e221)
-![Screenshot 2024-01-10 230736](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/492d2ee4-dde3-4ebc-9003-d5d815571eb7)
-![Screenshot 2024-01-10 230744](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/7b659a0c-242e-4062-8a78-0bfc23990a44)
-![Screenshot 2024-01-10 230750](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/6f6e04be-416f-4f78-ab0c-baeda75072fb)
+![ss1](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/357e4fc4-fb74-48db-9f16-da499b9be948)
+![ss2](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/47071be6-a7b7-4165-8bf5-90b83a8ffe4a)
+![ss3](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/af219035-d50d-42f5-b2e7-051cf8d67c7d)
+![ss4](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/093f1375-09a9-440b-96d1-1a14859e3d43)
+![ss5](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/f6795932-f9a1-4f42-a881-1e42d9e2c0fe)
+![ss6](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/bdbfa221-1d5e-4f53-b490-94b5653c6090)
+
 
 #### Install Project
 ```bash
