@@ -19,7 +19,7 @@
 ```bash
     npm install
 ```
--copy env file lalu sesuaikan dengan database
+-  copy env file lalu sesuaikan dengan database
 ```bash
     php artisan artisan migrate:fresh --seed
 ```
@@ -30,6 +30,6 @@
     php artisan storage:link
 ```
 
-### Login Admin
+#### Login Admin
 -   Email    = admin@example.com
 -   Password = 123
