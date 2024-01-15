@@ -26,6 +26,7 @@ class CarUpdateRequest extends FormRequest
             'harga_sewa' => 'required',
             'bahan_bakar' => 'required',
             'jumlah_kursi' => 'required',
+            'transmisi' => 'required',
             'status' => 'required',
             'deskripsi' => 'required',
             'p3k' => 'required',

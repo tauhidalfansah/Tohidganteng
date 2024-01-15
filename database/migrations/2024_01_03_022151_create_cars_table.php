@@ -21,7 +21,9 @@ return new class extends Migration
             $table->string('jumlah_kursi');
             $table->string('transmisi');
             $table->string('status');
+            $table->string('deskripsi');
             $table->boolean('p3k');
+            $table->boolean('charger');
             $table->boolean('audio');
             $table->boolean('ac');
             $table->timestamps();

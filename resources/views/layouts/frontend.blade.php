@@ -28,7 +28,7 @@
     <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container px-4 px-lg-5">
-        <a class="navbar-brand" href="{{route('homepage')}}">RentalIn</a>
+        <a class="navbar-brand" href="{{route('homepage')}}"><strong>RentalIn</strong></a>
         <button
           class="navbar-toggler"
           type="button"
@@ -58,7 +58,7 @@
     <footer class="py-5 bg-dark">
       <div class="container">
         <p class="m-0 text-center text-white">
-          Copyright &copy; TeamDPW 22
+          Copyright &copy; Metamorfosis 23
         </p>
       </div>
     </footer>
