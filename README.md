@@ -28,6 +28,14 @@
 ```bash
     php artisan storage:link
 ```
+- Runing program
+```bash
+    npm run dev
+```
+(new terminal)
+```bash
+   php artisan serve
+```
 
 #### Login Admin
 -   Email    = admin@example.com
