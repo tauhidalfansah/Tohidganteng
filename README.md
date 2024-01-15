@@ -1,5 +1,5 @@
-## TUGAS BESAR DESAIN DAN PEMROGRAMAN WEB
-# Screenshots
+# TUGAS BESAR DESAIN DAN PEMROGRAMAN WEB
+## Screenshots
 ![ss](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/f1c3220a-595a-48db-a46d-022f8899f2aa)
 ![ss1](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/6e12047c-6cc4-4f79-a7fc-441b66cee551)
 ![ss2](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/4d453d6e-aca1-4fab-a91f-4c3a216e1447)
