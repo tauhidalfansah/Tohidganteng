@@ -30,6 +30,6 @@
     php artisan storage:link
 ```
 
-Login Admin
-Email    = admin@example.com 
-Password = 123
+-   Login Admin
+-   Email    = admin@example.com
+-   Password = 123
