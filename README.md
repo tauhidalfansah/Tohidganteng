@@ -17,7 +17,7 @@
     composer install
 ```
 ```bash
-     npm install
+    npm install
 ```
 -copy env file lalu sesuaikan dengan database
 ```bash
