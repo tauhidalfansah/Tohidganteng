@@ -9,7 +9,7 @@
 ![Screenshot 2024-01-10 230744](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/7b659a0c-242e-4062-8a78-0bfc23990a44)
 ![Screenshot 2024-01-10 230750](https://github.com/HanNewbie/Tubes_DPW/assets/146110996/6f6e04be-416f-4f78-ab0c-baeda75072fb)
 
--Install Project
+#### Install Project
 ```bash
     git clone https://github.com/HanNewbie/Tubes_DPW.git
 ```
